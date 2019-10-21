@@ -1,0 +1,14 @@
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Asynchronous\bin\Debug\Asynchronous.exe.config
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Asynchronous\bin\Debug\Asynchronous.exe
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Asynchronous\bin\Debug\Asynchronous.pdb
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Asynchronous\obj\Debug\Asynchronous.csprojAssemblyReference.cache
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Asynchronous\obj\Debug\MainWindow.g.cs
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Asynchronous\obj\Debug\App.g.cs
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Asynchronous\obj\Debug\Asynchronous_MarkupCompile.cache
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Asynchronous\obj\Debug\Asynchronous_MarkupCompile.lref
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Asynchronous\obj\Debug\MainWindow.baml
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Asynchronous\obj\Debug\Asynchronous.g.resources
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Asynchronous\obj\Debug\Asynchronous.Properties.Resources.resources
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Asynchronous\obj\Debug\Asynchronous.csproj.GenerateResource.cache
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Asynchronous\obj\Debug\Asynchronous.exe
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Asynchronous\obj\Debug\Asynchronous.pdb

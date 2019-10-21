@@ -1,0 +1,4 @@
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\LINQ\bin\Debug\LINQ.dll
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\LINQ\bin\Debug\LINQ.pdb
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\LINQ\obj\Debug\LINQ.dll
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\LINQ\obj\Debug\LINQ.pdb

@@ -1,0 +1,5 @@
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Delegates\bin\Debug\Delegates.dll
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Delegates\bin\Debug\Delegates.pdb
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Delegates\obj\Debug\Delegates.dll
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Delegates\obj\Debug\Delegates.pdb

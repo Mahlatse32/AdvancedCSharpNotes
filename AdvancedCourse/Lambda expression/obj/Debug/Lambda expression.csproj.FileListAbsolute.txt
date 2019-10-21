@@ -1,0 +1,5 @@
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Lambda expression\bin\Debug\Lambda expression.dll
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Lambda expression\bin\Debug\Lambda expression.pdb
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Lambda expression\obj\Debug\Lambda expression.csprojAssemblyReference.cache
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Lambda expression\obj\Debug\Lambda expression.dll
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Lambda expression\obj\Debug\Lambda expression.pdb

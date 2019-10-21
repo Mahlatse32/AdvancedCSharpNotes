@@ -1,0 +1,4 @@
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Dynamic\bin\Debug\Dynamic.dll
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Dynamic\bin\Debug\Dynamic.pdb
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Dynamic\obj\Debug\Dynamic.dll
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Dynamic\obj\Debug\Dynamic.pdb

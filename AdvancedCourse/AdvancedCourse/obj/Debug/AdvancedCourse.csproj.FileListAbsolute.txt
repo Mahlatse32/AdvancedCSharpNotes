@@ -1,0 +1,23 @@
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\bin\Debug\AdvancedCourse.exe.config
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\bin\Debug\AdvancedCourse.exe
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\bin\Debug\AdvancedCourse.pdb
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\bin\Debug\Delegates.dll
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\bin\Debug\Dynamic.dll
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\bin\Debug\EventsAndDelegates.dll
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\bin\Debug\ExtensionMethods.dll
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\bin\Debug\Generics.dll
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\bin\Debug\Lambda expression.dll
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\bin\Debug\LINQ.dll
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\bin\Debug\Delegates.pdb
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\bin\Debug\Dynamic.pdb
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\bin\Debug\EventsAndDelegates.pdb
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\bin\Debug\ExtensionMethods.pdb
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\bin\Debug\Generics.pdb
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\bin\Debug\Lambda expression.pdb
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\bin\Debug\LINQ.pdb
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\obj\Debug\AdvancedCourse.csprojAssemblyReference.cache
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\obj\Debug\AdvancedCourse.csproj.CopyComplete
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\obj\Debug\AdvancedCourse.exe
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\obj\Debug\AdvancedCourse.pdb
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\bin\Debug\ExceptionHandling.dll
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\AdvancedCourse\bin\Debug\ExceptionHandling.pdb

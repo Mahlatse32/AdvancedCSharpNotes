@@ -1,0 +1,5 @@
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Generics\bin\Debug\Generics.dll
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Generics\bin\Debug\Generics.pdb
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Generics\obj\Debug\Generics.dll
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\Generics\obj\Debug\Generics.pdb

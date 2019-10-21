@@ -1,0 +1,5 @@
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\EventsAndDelegates\bin\Debug\EventsAndDelegates.dll
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\EventsAndDelegates\obj\Debug\EventsAndDelegates.csprojAssemblyReference.cache
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\EventsAndDelegates\obj\Debug\EventsAndDelegates.dll
+C:\Users\mahlatset\Desktop\Udemy\Advanced C#\AdvancedCourse\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb
